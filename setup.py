@@ -6,7 +6,7 @@ import re
 version = '0.0.1'
 
 setup(
-    name = "production_log_server",
+    name = "barobo_production_log_server",
     version = version,
     install_requires = ["linkbot_diagnostics == 0.2.1", "bottle"],
     description = "Web server for browsing Barobo production logs",
